@@ -14,4 +14,10 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<variableList>
+		<variable>
+			<name>primeiroscodigos</name>
+			<value>file:/C:/Users/Dione%20Terrarios/eclipse-workspace/PrimeiroPrograma/.git/teste_curso_dio_dominando_ide_java/primeiros_codigos</value>
+		</variable>
+	</variableList>
 </projectDescription>
